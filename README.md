@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erik-ng-3006
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning CS50 course
+- 🌱 I’m currently learning on freeCodeCamp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me erik3006@gmail.com
 
