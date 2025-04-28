@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Erik Nguyen**
 
 ## 👀 About Me
-I’m a **fresher** passionate about developing dynamic and user-friendly applications. I enjoy tackling challenges and continuously learning new technologies to enhance my skills.
+I'm a passionate Web Developer skilled in building dynamic, user-friendly applications with React and modern technologies.
 
 ## 💻 Skills
 ### Programming Languages
@@ -10,15 +10,9 @@ I’m a **fresher** passionate about developing dynamic and user-friendly applic
 - **TypeScript**
 
 ### Frameworks
-- **Spring Boot**
 - **React**
 - **Next.js**
-
-### Tools
-- **Git**
-- **Docker**
-- **Postman**
-- **MySQL**
+- **Spring Boot**
 
 ## 📫 Get in Touch
 I’d love to connect! You can reach me at: [erik3006@gmail.com](mailto:erik3006@gmail.com)
